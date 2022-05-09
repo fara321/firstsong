@@ -1,16 +1,18 @@
-h2 {
-    background-color: #262626;
-    color: azure;
-}
-
-p {
-    color: azure;
-    background-color: #262626;
-}
-a {
-    color: antiquewhite
-}
-
-body {
-    background-color: #262626;
-}
+                        p {
+                        color: azure;
+                        background-color: #262626;
+                    }
+                    
+                    a {
+                        color: antiquewhite
+                    }
+                    
+                    body {
+                        background-color: #262626;
+                    }
+                    
+                    h1 {
+                        color: #a3f35c;
+                        font-size: 11pt;
+                        font-family: arial, "lucida console", sans-serif;
+                        text-indent: 110px;
