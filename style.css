@@ -1,18 +1,26 @@
                             p {
-                            color: azure;
-                            background-color: #262626;
-                        }
-                        
-                        a {
-                            color: rgb(246, 198, 136)
-                        }
-                        
-                        body {
-                            background-color: #262626;
-                        }
-                        
-                        h1 {
-                            color: #a3f35c;
-                            font-size: 11pt;
-                            font-family: arial, "lucida console", sans-serif;
-                            text-indent: 110px;
+                                color: azure;
+                                background-color: #262626;
+                            }
+                            
+                            a {
+                                color: rgb(246, 198, 136)
+                            }
+                            
+                            body {
+                                background-color: #262626;
+                            }
+                            
+                            h1 {
+                                color: #a3f35c;
+                                font-size: 11pt;
+                                font-family: arial, "lucida console", sans-serif;
+                                text-indent: 110px;
+                            }
+                            
+                            h2 {
+                                color: #f3da5c;
+                                font-size: 9pt;
+                                font-family: arial, "lucida console", sans-serif;
+                                text-indent: 110px;
+                            }
