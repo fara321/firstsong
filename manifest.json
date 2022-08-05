@@ -3,7 +3,9 @@
   "short_name": "firstsongs",
   "theme_color": "#262626",
   "background_color": "#262626",
-  "display": "browser",
+  "display": "fullscreen",
   "scope": "/",
   "start_url": "/"
+  "short_name": "Lillys"
+  "description": "Portrait"
 }
